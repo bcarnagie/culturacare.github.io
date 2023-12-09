@@ -1,0 +1,42 @@
+---
+title: ""
+output: 
+  html_document:
+    toc: false
+    number_sections: false
+---
+
+# Research and Projects {.tabset}
+
+## Food Insecurity and Educational Attainment
+
+*November 2023*  
+**Data Visualization Project**
+
+- Created a series of maps in QGIS comparing the relationships between food insecurity rates and educational attainment levels in elementary school students attending public schools in New York City.
+- Ran a spatial regression analysis in RStudio to examine the spatial autocorrelation and identify significant predictors that influence the relationship between food insecurity rates and educational attainment levels.
+- View my poster presentation [here](files/GIS Poster.pdf).
+
+## Epidemiology Masters Student Day
+
+*October 2023*  
+**Poster Presentation**
+
+- Carnagie, B.A., Greenleaf, A., Howard, A.A. (2023). ["Exploring COVID-19 Impacts and Vaccine Uptake Among People Living with HIV in Western Kenya.](files/Carnagie_Brianna_Poster.pdf)" Poster presented at Columbia University Epidemiology Student Poster Presentation.
+  + Utilized SAS to run logistic regressions to assess the association between sociodemographic variables and COVID-19 vaccine uptake.
+
+## Youth Mental Health Advocacy Organizations Report
+
+*July 2023*  
+**Competitive Analysis Slide Deck**
+
+- Conducted extensive research to identify and evaluate youth mental health advocacy organizations, examining their missions, programs, and impact.
+- Analyzed the effectiveness of these organizations in addressing youth mental health challenges.
+
+## Stony Brook Health Science Student Poster Presentation
+
+*December 2021*  
+**Poster Presentation**
+
+- Carnagie, B.A. (2021). ["A Qualitative Phenomenological Research Study Exploring the Perceptions of African American Adolescents Regarding Food Insecurity in Urban Communities of New York City."](files/BCarnagie IRB Protocol.pdf) Poster presented at Stony Brook University Health Science Student Full Poster Presentation.
+  + Demonstrated a comprehensive understanding of ethical research practices by actively drafting an IRB protocol proposal for the research project.

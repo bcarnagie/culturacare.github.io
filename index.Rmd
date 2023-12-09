@@ -1,0 +1,38 @@
+<div style="text-align: center;">
+  <img src="images/headshot.jpg" alt="Image Alt Text" style="margin: 0 auto; width: 25%;">
+</div>
+
+# Who am I?
+
+My name is Brianna Carnagie and I am currently pursuing an MPH degree at Columbia University Mailman School of Public Health, where my passion lies in advocating for healthcare equity. My academic focus centers on Epidemiology, Applied Biostatistics, and Public Health Data Science.
+
+With *3+ years* of public health experience under my belt, my background includes meaningful work with vulnerable populations, particularly in the realm of biostatistics and data analytics. My ability to forge collaborative partnerships has allowed me to work effectively with a diverse array of stakeholders, showcasing my leadership and communication skills.
+
+Driven by a deep commitment to effecting change in public health, I bring together my education and hands-on experience to contribute positively to the transformation of our healthcare system. This website serves as an interactive tool to gain insight into my career journey. Please navigate through the website to explore my journey and learn more about my professional experiences.
+
+
+## Professional Summary
+
+Dedicated and results-driven public health professional with a strong foundation in epidemiology, applied biostatistics, and public health data science. Currently pursuing a Master of Public Health degree at Columbia University Mailman School of Public Health, I am deeply committed to advancing healthcare equity and improving population health outcomes.
+
+**Academic Excellence:** Possess a solid academic background with coursework in applied regression, analysis of categorical data, data science, relational databases, SQL programming, and more. A Certificate in Applied Biostatistics and Public Health Data Science underscores proficiency in data analytics and statistical modeling.
+
+**Practical Expertise:** With over 3 years of hands-on experience in public health, I have honed my skills in biostatistics and data analytics. Proficiency in tools such as SAS, STATA, SQL, QGIS, R, and Tableau enables me to extract meaningful insights from complex datasets, unveiling crucial trends and disparities.
+
+**Collaborative Leadership:** Proven ability to establish and nurture collaborative partnerships with diverse stakeholders, including healthcare professionals, researchers, and community organizations. Exceptional communication and interpersonal skills facilitate effective teamwork and project management.
+
+**Passion for Impact:** Driven by a profound commitment to effecting positive change in public health, I leverage my education and practical experience to contribute to the transformation of our healthcare system. My journey is characterized by a continuous pursuit of knowledge and innovation in the pursuit of health equity.
+
+This website serves as a window into my professional journey, showcasing my experiences, projects, and dedication to advancing public health. I look forward to connecting and collaborating with fellow professionals who share a similar passion for improving the health and well-being of our communities.
+
+---
+
+
+<div style="text-align: center;">
+  <img src="images/hex-bac2214.png" alt="Image Alt Text" style="margin: 0 auto; width: 20%;">
+</div>
+
+
+
+
+
